@@ -1,10 +1,21 @@
-# HooBank - Modern UI/UX website using React.js & Tailwind CSS
 
-![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
+<h1 align="center">
+  Responsive Bank Website 🌱<br/>
+  <a href="https://bank-main-vlad-ts.netlify.app/" target="_blank">HooBank</a>
+</h1>
 
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
+<br/>
+<p align="center">
+  <a href="https://bank-main-vlad-ts.netlify.app/" target="_blank">
+    <img src="https://api.netlify.com/api/v1/badges/ac95dc32-745f-48e2-8e2f-5795d50b580f/deploy-status" alt="Netlify Status" />
+  </a>
+</p>
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+### Responsive Bank Website 🌱
+
+- Modern UI/UX website using React.js & Tailwind CSS
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+![hoobank website](src/assets/preview.png)
